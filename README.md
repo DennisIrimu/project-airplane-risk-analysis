@@ -63,3 +63,5 @@ Based on the dataset and scoring method, **Boeing appears to be the least risky 
 **Analyst**: Dennis Irimu
 **Tools Used**: Excel, Google Sheets, Tableau, Python 
 **Data Source**: [NTSB Aviation Accident Database](https://www.ntsb.gov)
+
+#### Tableau link - https://public.tableau.com/app/profile/dennis.irimu/viz/AirlineRiskAnalysis/Dashboard1?publish=yes
