@@ -10,7 +10,7 @@ This project focuses on identifying **least-risky aircraft makes**, **influentia
 
 ---
 
-## 🗂️ Data
+## Data
 
 The dataset used originates from the **NTSB Aircraft Accident Database**, and includes:
 
@@ -24,7 +24,7 @@ Data was cleaned and merged in Excel Sheets and analyzed visually in Tableau.
 
 ---
 
-## ⚙️ Process Steps
+## Process Steps
 
 1. **Data Cleaning**
    - Removed duplicates, blanks, irrelevant fields
